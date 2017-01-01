@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1024283480300",
+    "firebase_url": "https://rocket-radio.firebaseio.com",
+    "project_id": "rocket-radio",
+    "storage_bucket": "rocket-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024283480300:android:8c2165fd42c3f872",
+        "android_client_info": {
+          "package_name": "rocketradio.broadcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024283480300-4tvvk7u65ic19mq2a157vj1mivgmgo62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OsPZ6vdLMCXlgY64FnrV1Fm0ZIBjlPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
