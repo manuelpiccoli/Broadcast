@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
     private GoogleApiClient client;
     private static final String TAG = "MyFirebaseMsgService";
 
+    String user = "BoB";
+
 
     public void buttonPressed(View view) {
         if (isPlaying == false) {
