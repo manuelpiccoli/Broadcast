@@ -40,7 +40,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/currentTime"
-        android:textAppearance="@android:style/TextAppearance.Material.Caption"
+        android:textAppearance="@style/TextAppearance.AppCompat"
         android:layout_below="@+id/seekBar"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
